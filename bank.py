@@ -75,10 +75,10 @@ class Account:
 
 acc_1 = Account("Sanat" , 10000)
 acc_2 = Account("Aditya" , 1000000)
-acc_3 = Account("Pawan Kothari" , 100000)
+acc_3 = Account("Aditi" , 100000)
 
 
-acc_3.withdraw(500000)
+
 
 
 
